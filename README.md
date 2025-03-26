@@ -1,0 +1,2 @@
+# mysecondrepo
+scm file work
